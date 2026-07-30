@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial,sans-serif;
+}
+.navigasi {
+  background-color : green;
+  color : white;
+  padding : 20px;
+  text-align: center;
+}
+
+.isi{
+  background-color : blue;
+  color :white ;
+  padding: 40px 20px;
+  min-height: 300px;
+}
+
+.footer{
+  background-color : purple;
+}
+
+.button{
+  
+}
